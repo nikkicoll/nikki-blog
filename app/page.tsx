@@ -26,10 +26,10 @@ export default function Home() {
         alt="Professional image of woman's face with brown hair"
       />
       <header className="text-center">
-        <h1 className="text-6xl mb-4">Hi, I'm Nikki.</h1>
-        <div className="text-base text-left max-w-lg">I live in Seattle and work in solutions engineering. I’m passionate about building meaningful relationships and bread.<br></br><br></br>
-        When I’m not selling dreams built on bits and bytes, I can be found reading literature on mental health, cooking, painting, climbing mountains, and showing my husband where that thing is that he couldn’t find.<br></br><br></br>
-        Welcome to my online journal, a cozy corner where tech musings mingle with hiking tales, kitchen experiments, and exploring what it means to be 'well'. Pull up a virtual chair, grab a (digital) cookie, and join the journey.<br></br><br></br>
+        <h1 className="text-6xl mb-4">Hi, I&apos;m Nikki.</h1>
+        <div className="text-base text-left max-w-lg">I live in Seattle and work in solutions engineering. I&apos;m passionate about building meaningful relationships and bread.<br></br><br></br>
+        When I&apos;m not selling dreams built on bits and bytes, I can be found reading literature on mental health, cooking, painting, climbing mountains, and showing my husband where that thing is that he couldn&apos;t find.<br></br><br></br>
+        Welcome to my online journal, a cozy corner where tech musings mingle with hiking tales, kitchen experiments, and exploring what it means to be &apos;well&apos;. Pull up a virtual chair, grab a (digital) cookie, and join the journey.<br></br><br></br>
         </div>
       </header>
       <footer className="flex justify-center space-x-4 mt-20">
