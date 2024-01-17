@@ -18,6 +18,7 @@ export default function Home() {
           LINKS
         </Link>
       </nav>
+      <div>[site under construction :)]</div>
       <Image
         src="/nikki_face.png"
         width={200}
